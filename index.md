@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Introduction 
+title: Python: Intro to Programming 
 nav_order: 1
 ---
-**UPDATE PHOTO**
 <img src="images/python-logo.png" style="float:right;width:280px;" alt="image description">
 
 # Python: Introduction to Programming
@@ -20,13 +19,7 @@ nav_order: 1
 
 This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
