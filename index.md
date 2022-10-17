@@ -11,7 +11,7 @@ nav_order: 1
 - Introductory presentation: 10 min
 - Hands-on activities: 50-80 min
 
-## Why TOOL NAME HERE? 
+## Why Python for Data Analysis? 
 
 [Python](https://python.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
 
