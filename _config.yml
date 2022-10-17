@@ -1,8 +1,8 @@
-title: WORKSHOP NAME GOES HERE
+title: Python - Intro to Programming
 remote_theme: pmarsceill/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_repository: "https://github.com/uviclibraries/WORKSHOP-DIR-HERE" # the github URL for your repo
+gh_edit_repository: "https://github.com/uviclibraries/python" # the github URL for your repo
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_branch: "master" # the branch that your docs is served from
@@ -16,7 +16,7 @@ license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
 
 aux_links:
   "UVic Libraries Digital Scholarship Commons":
-    - "//uvic.ca/library/dsc"
+    - "//lib.uvic.ca/dsc"
 
 aux_links_new_tab: true
 
