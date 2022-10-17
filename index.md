@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/python-logo.png" style="float:right;width:280px;" alt="image description">
 
-# Python: Introduction to Programming
+# Python: Introduction to Data Analysis Programming
 
 - Pre-workshop activities: 15 min 
 - Introductory presentation: 10 min
