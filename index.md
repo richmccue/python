@@ -13,7 +13,9 @@ nav_order: 1
 
 ## Why Python for Data Analysis? 
 
-[Python](https://python.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Python](https://python.org/){:target="_blank"} The best way to learn how to program is to do something useful, so this introduction to Python is built around a common scientific task: data analysis.
+
+MORE HERE!
 
 ## Learning objectives
 
